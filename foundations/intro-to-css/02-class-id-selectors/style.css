@@ -2,3 +2,15 @@
     background-color: rgb(241, 138, 240);
     font-family: Verdana, 'Dejavu Sans', sans-serif
 }
+#second{
+color: rgb(21, 151, 238);
+font-size: 36px;
+}
+.odd.third{
+font-size: 24px;
+}
+#fourth {
+background-color: rgb(145, 253, 106);
+font-size: 24px;
+font-weight: bold;
+}
