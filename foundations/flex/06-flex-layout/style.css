@@ -10,6 +10,13 @@ body {
   justify-content: space-between;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
 img {
   width: 600px;
 }
@@ -19,6 +26,11 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 10px;
+}
+
+li {
+  padding: 10px;
 }
 
 a {
