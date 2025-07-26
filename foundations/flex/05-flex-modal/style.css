@@ -30,7 +30,7 @@ body {
 .modal-div {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
 }
 .flex-row {
   display: flex;
